@@ -1,0 +1,309 @@
+Friday, 23 February, 2018
+hdo
+[08:54:56]  
+ok.ma'm.bye.have a nice day.
+rk
+[08:55:59]  
+good morning
+hdo
+[08:56:28]  
+good morning ma'm
+[08:56:31]  
+how are you?
+rk
+[08:56:43]  
+i'm fine.you?
+hdo
+[08:56:50]  
+i am also fine,
+rk
+[08:58:15]  
+can please send link of shopping project
+[08:58:17]  
+?
+hdo
+[08:58:37]  
+yes.i wil send.wait.
+rk
+[08:58:45]  
+ok
+hdo
+[08:59:50]  
+https://w3layouts.com/preview/?l=/downy-shoes-ecommerce-category-bootstrap-responsive-web-template/
+[08:59:58]  
+it's only demo.
+rk
+[09:00:02]  
+ok
+hdo
+[09:00:11]  
+so please our web design.
+[09:00:37]  
+you have any issue then told me.
+rk
+[09:00:55]  
+ok
+[09:01:24]  
+design is perfect.everything it's ok
+[09:01:29]  
+go ahead
+hdo
+[09:01:57]  
+thank you.mam.
+[09:02:16]  
+i will start admin panel today.
+rk
+[09:03:55]  
+ok ,please do it fast
+hdo
+[09:04:43]  
+ok.we do our best.
+[09:05:01]  
+ma'm i have confusion in admin panel.
+[09:05:47]  
+what kind of category which you have enter in add project page.
+rk
+[09:06:12]  
+yes tell me
+[09:06:57]  
+what type of category?
+hdo
+[09:08:48]  
+like. man,kid,toy,electronic, woman etc.
+[09:09:19]  
+which you want add more categories?
+rk
+[09:09:51]  
+ohk.i want similer like flipcart
+hdo
+[09:13:11]  
+i will make more then good of flipcart.
+rk
+[09:13:23]  
+ok fine
+[09:13:33]  
+please do fast
+hdo
+[09:14:03]  
+ok.ma'm
+rk
+[09:15:58]  
+in admin panel i want 3 types of admin. like super admin, admin, local user
+hdo
+[09:18:20]  
+ok.ma'm.i have make it.
+rk
+[09:18:40]  
+ok
+[09:19:47]  
+hello !!! are you free?
+hdo
+[09:20:58]  
+yaa.i am free.
+rk
+[09:21:16]  
+i see my admin panel
+hdo
+[09:21:31]  
+yes,ma'm.
+[09:21:45]  
+wait.i send link.
+rk
+[09:21:49]  
+what is the progress in that?
+hdo
+[09:23:23]  
+i have completed login module.
+rk
+[09:23:35]  
+ok
+hdo
+[09:24:00]  
+when you enter in admin panel,then you need for login first.
+rk
+[09:24:08]  
+send me the link and username & password
+[09:24:17]  
+ok
+hdo
+[09:24:27]  
+without login you can't access the admin panel.
+[09:24:43]  
+user name:admin@narola.email
+rk
+[09:24:51]  
+ok
+hdo
+[09:24:55]  
+password:123456
+[09:25:03]  
+please check it.
+rk
+[09:25:13]  
+send me the link also
+hdo
+[09:25:21]  
+https://w3layouts.com/super-market-e-commerce-online-shopping-flat-bootstrap-responsive-web-template/
+rk
+[09:25:23]  
+ok
+[09:26:57]  
+when i login than i have all rights .it's ok with it.but when normal user login than they have not facility to see everything
+[09:27:22]  
+than work on the priority
+hdo
+[09:28:25]  
+yes.ma'm.only admin can access this panel.
+rk
+[09:28:31]  
+ok
+hdo
+[09:28:52]  
+we make diffrent module for nornal user.
+rk
+[09:29:05]  
+ok fine
+[09:31:30]  
+hello ,are you free?
+hdo
+[09:32:38]  
+yes.i am free
+[09:33:48]  
+are you login-on in admin panel.
+[09:34:00]  
+logon*
+rk
+[09:34:05]  
+what is status of admin panel?
+[09:34:21]  
+yes ,than
+hdo
+[09:35:14]  
+after you logon,you see the dashboard.
+rk
+[09:35:36]  
+ohk
+[09:37:32]  
+in dashboard i want every details in that page like daily salling, purchase,profit also...
+hdo
+[09:38:32]  
+yaa.ma'm.i already given that all information.
+rk
+[09:39:00]  
+ok send me link i ckeck it
+hdo
+[09:39:52]  
+i have also give how many user used your website,how's many transation.
+rk
+[09:40:15]  
+ok
+[09:40:27]  
+give me link
+hdo
+[09:40:39]  
+yaa.ma'm.wait.
+[09:40:49]  
+https://w3layouts.com/preview/?l=/downy-shoes-ecommerce-category-bootstrap-responsive-web-template/
+[09:40:59]  
+please .check it.
+rk
+[09:41:05]  
+ok
+[09:41:35]  
+everything is perfect
+hdo
+[09:41:54]  
+are you see all the details in deshboard based on daliy conversion.
+rk
+[09:42:02]  
+ya
+[09:42:11]  
+i'm impressed
+hdo
+[09:43:15]  
+thank you.ma'm
+rk
+[09:43:24]  
+welcome
+hdo
+[09:43:38]  
+i will start on today with add category module.
+rk
+[09:43:41]  
+pls work fast
+[09:43:51]  
+ok
+hdo
+[09:43:58]  
+you can maintain category from you side.
+rk
+[09:44:08]  
+hm
+hdo
+[09:44:59]  
+when you enter add new category,then your can show category which you entered?
+rk
+[09:45:12]  
+ok fine
+hdo
+[09:45:46]  
+and then user can only select category based on her/his item.
+rk
+[09:46:50]  
+ok
+hdo
+[09:46:52]  
+and also.admin can update and delete this category.
+rk
+[09:52:22]  
+ok
+[09:54:02]  
+i want in that,user pay with cash on delivery,paytm,credit card and easy to return within 3-4 days
+hdo
+[09:56:10]  
+ok. i have completed from my side.
+[09:56:20]  
+i have send a link.
+[09:56:34]  
+you can check in this link.
+[09:56:49]  
+https://w3layouts.com/preview/?l=/trendy-travel-travel-category-bootstrap-responsive-web-template/
+[09:56:59]  
+check it.
+rk
+[09:57:47]  
+everything it's perfect working
+[09:57:52]  
+good job
+hdo
+[09:57:59]  
+thank you.ma'm
+[09:58:22]  
+i will completed all the change within 2 daty.
+[09:58:26]  
+days*
+rk
+[09:58:31]  
+ok
+[09:58:40]  
+i saw that
+hdo
+[09:58:55]  
+ok.i will send the updates.
+rk
+[09:59:27]  
+you really work great
+hdo
+[09:59:42]  
+thank you.
+[10:00:15]  
+i will like statisfaction from your side.
+[10:02:36]  
+ok.ma'm.bye.have a nice day.
+rk
+[10:02:45]  
+welcome
+[10:02:54]  
+have nice day
+[10:03:00]  
+bye

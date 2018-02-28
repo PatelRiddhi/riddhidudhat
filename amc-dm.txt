@@ -1,0 +1,69 @@
+Friday, 23 February, 2018
+(09:11:19) amc: hello
+(09:11:21) amc: good morning
+(09:11:30) dm: hello good morning
+(09:11:48) amc: what is the progress of project?
+(09:12:13) dm: progress is going good
+(09:12:52) amc: which modules have you complated yet?
+(09:13:50) dm: i have completed registration and login module.
+(09:14:40) amc: just two moduels? you told me you would complate product moduel before 22 feb?
+(09:14:55) amc: modules*
+(09:15:57) dm: yes sir i told you but due to some reason it had not done on time
+(09:16:13) dm: but i will comeplete it in 2 days
+(09:16:28) amc: this is not done. you know the deadline. right?
+(09:17:51) dm: yes sir i know but i am really sorry for that
+(09:18:11) amc: its fine. but give more time on project.
+(09:18:47) dm: ok sir
+(09:19:44) dm: finnally project will have done at the end of this month
+(09:20:13) amc: good. complate this project as soon as possible. 
+(09:21:18) dm: yes it will be done.
+(09:22:01) amc: okay. if you have any doubt, just infom me on email or skype.
+(09:24:55) dm: ok sure i will inform you if there will be any dout.
+(09:25:45) amc: okay
+(09:25:49) amc: bye for now.
+(09:28:56) dm: hello sir good morning
+(09:29:04) dm: i have one dout 
+(09:29:35) dm: in role management the role will be fix for dynamic
+(09:29:57) dm: or dynamic.
+(09:30:18) amc: i want role managment system dynamic
+(09:30:44) amc: because there can be situaltion where i need to assign some role to my employees
+(09:32:45) dm: yes sir i will do as per your requirement.
+(09:33:04) amc: okay fine.
+(09:33:17) amc: when will you complate this module?
+(09:34:05) dm: i need 2 more days to complete it.
+(09:34:18) amc: take you time and complate proparly.
+(09:34:43) amc: if you have any doubt just read the requiment doc file
+(09:34:55) amc: or you can contact me on email or skype
+(09:35:10) dm: ya sure
+(09:36:31) amc: okay. going to go now,
+(09:36:32) dm: do you want to some extra feature like chattiing or any thing else in your project...?
+(09:36:32) amc: bye
+(09:36:36) amc: have a nice day
+(09:36:50) amc: nooo 
+(09:36:59) amc: just focus on current requment
+(09:37:03) amc: requiment*
+(09:37:18) dm: ok thats fine sir
+(09:39:16) dm: hello sir
+(09:39:21) dm: good morning
+(09:39:22) amc: Hey
+(09:39:25) amc: good morning
+(09:39:50) dm: i have completed project.
+(09:40:17) amc: where the URL?
+(09:40:22) amc: i want to see
+(09:40:34) dm: when you will be free please check below link of project.
+(09:41:10) dm: : https://bootsnipp.com/snippets/featured/bootstrap-material-wizard
+(09:42:15) amc: https://bootsnipp.com/snippets/1e02d
+(09:42:23) amc: i want kind of wiard form
+(09:42:56) dm: ok it will be done.
+(09:43:29) amc: good
+(09:45:41) dm: i have completed it you can check it on above given link.
+(09:46:15) dm: if there is any mistake then plaese let me inform sir..
+(09:46:23) amc: okay
+(09:46:25) amc: wait
+(09:46:26) amc: i check
+(09:47:22) amc: okay. its perfect now
+(09:48:04) dm: thank you sir
+(09:48:31) dm: have a nice day 
+(09:48:35) dm: good by
+(09:48:51) amc: bye
+(09:48:58) amc: have a nice day

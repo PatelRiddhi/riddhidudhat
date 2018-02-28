@@ -1,0 +1,87 @@
+rd
+[09:19:57]  
+hello good morning sir
+[09:20:30]  
+if you have time would I discuss about datting app project
+[09:20:32]  
+???
+amc
+[09:20:55]  
+sure
+rd
+[09:23:22]  
+so sir actually I want to know that do you want online chatting in your website?
+amc
+[09:25:11]  
+there are some modules like login, register, chatting, profile
+[09:25:37]  
+and most important module is filtering and persoanlity testing.
+rd
+[09:25:50]  
+yes sir I know that but online chatting is not mention in documntation
+[09:26:18]  
+so I ask this question
+amc
+[09:26:19]  
+i think i have mentioned.
+[09:26:39]  
+i said, i want a comunication module
+[09:26:54]  
+communication*
+[09:27:43]  
+this cummunication module should be real-time cummunication
+[09:27:54]  
+communication*
+rd
+[09:28:13]  
+ohk sir I will read properly. as per my think I didn't read in documentation
+amc
+[09:28:35]  
+you must read properly.
+rd
+[09:29:09]  
+ohk sir
+amc
+[09:29:31]  
+any other doubt?
+rd
+[09:30:45]  
+no sir
+[09:31:13]  
+by the way have you checked previous modules which I sent to you sir
+amc
+[09:31:17]  
+good. and when will you start this module?
+[09:31:24]  
+you know the deadline right?
+rd
+[09:33:21]  
+yes sir
+[09:33:30]  
+dont worry about it
+[09:33:55]  
+It will have completed before deadline
+[09:34:04]  
+so no worry about it
+amc
+[09:35:09]  
+good.
+rd
+[09:35:42]  
+ohk
+amc
+[09:35:59]  
+and yeah i have checked those modules which you have complated
+[09:37:54]  
+when you complate this chatting module just infom me on email with URL.
+rd
+[09:40:15]  
+ohk sure sir
+amc
+[09:42:40]  
+well bye.
+[09:42:43]  
+have a nice day
+rd
+[09:43:35]  
+bye have a great day sir
