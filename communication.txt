@@ -1,0 +1,595 @@
+[01-02-2018 11:45:38] DJ Tan: Hi Sunil
+[01-02-2018 11:45:47] Sunil Vaghela: Hello Daniel
+[01-02-2018 11:46:21] DJ Tan: How you doing Sunil?
+[01-02-2018 11:46:32] Sunil Vaghela: Doing good. Thanks.
+[01-02-2018 11:46:52] Sunil Vaghela: Very busy nowadays. (:|
+[01-02-2018 11:47:01] Sunil Vaghela: You?
+[01-02-2018 11:47:16] DJ Tan: Not too busy, but working hard to be busy!
+[01-02-2018 11:47:21] DJ Tan: Maybe soon.
+[01-02-2018 11:47:27] DJ Tan: I have a question if you have a moment.
+[01-02-2018 11:48:03] Sunil Vaghela: Yes
+[01-02-2018 11:48:09] DJ Tan: I may have an opportunity to do a lot of "page farm" work - basically creating dozens of fast 1-page webpages.
+[01-02-2018 11:48:33] Sunil Vaghela: Hmm
+[01-02-2018 11:48:50] DJ Tan: For example:  http://www.firmweightcare.com/ https://www.firmskinhealth.com/  https://www.firmmusclegrowth.com/  http://www.firmenhancement.com/
+[01-02-2018 11:49:44 | Edited 11:50:16] Sunil Vaghela: Checking
+[01-02-2018 11:50:23] DJ Tan: (sorry, 2 - 3 page sites) - basic but functional ecommerce. 
+[01-02-2018 11:51:35] DJ Tan: So here is what I'd like to know: first, what platform are these sites built on and 2. to discuss all the requirements and get a time/cost estimate to build these. We could need up to 12 per week.
+[01-02-2018 11:51:44] DJ Tan: Maybe 100s
+[01-02-2018 11:53:24] DJ Tan: They need to be as basic, fast and easy to setup as possible. Such as within a few hours each
+[01-02-2018 11:54:36] Sunil Vaghela: Yes I can see all sites look same with the same concept, that is one form to order the product. Also there is only one product to order.
+[01-02-2018 11:54:50] DJ Tan: correct.
+[01-02-2018 11:55:07] DJ Tan: We would basically want to have this exact format, with only 1 product
+[01-02-2018 11:55:25] Sunil Vaghela: Do I need to consider designing of the website?
+[01-02-2018 11:56:02] DJ Tan: Yes, but I think we would not need to do something very original for every site. For example, using templates
+[01-02-2018 11:56:08] DJ Tan: just changing content.
+[01-02-2018 11:56:27] Sunil Vaghela: I'm checking the current platform of the sites.
+[01-02-2018 12:15:52] Sunil Vaghela: Daniel
+[01-02-2018 12:16:11] Sunil Vaghela: Current websites are developed in CorePHP with some html pages.
+[01-02-2018 12:16:19] Sunil Vaghela: But we should go with Wordpress.
+[01-02-2018 12:17:35] Sunil Vaghela: We will use Woocommerce with only one product. Also using WordPress, we will not have to create CMS using coding, As Admin can change the content from the back-end.
+[01-02-2018 12:19:08] DJ Tan: so you think these sites are custom-built or some template system such as Wix
+[01-02-2018 12:22:55] DJ Tan: hmm, also regarding hosting - i am wondering if it is better to try to use system like Wix which provides hosting. Otherwise, to quickly create so many sites may get confusing or difficult to set up w/ wcoocmmerce? no? what you dthink?
+[01-02-2018 12:25:18] DJ Tan: Also, you don't have to provide an answer to me now. We can chat tomorrow. I will do some research, but also let me know what you learn today. So either Woocommerce or some cheap adn easy system like Wix perhaps
+[01-02-2018 12:25:26] Sunil Vaghela: I have an idea.
+[01-02-2018 12:26:47] DJ Tan: https://www.wix.com/ecommerce/website
+[01-02-2018 12:26:52] DJ Tan: ok yes. . . 
+[01-02-2018 12:30:20] Sunil Vaghela: My one question : all the sites would be hosted on same hosting provider/plan?
+[01-02-2018 12:30:54] DJ Tan: hmmmmmmmmmmmmm.
+[01-02-2018 12:31:18] DJ Tan: i don't know this, because they will be for different clients. 10 for one client, 30 for another etc.
+[01-02-2018 12:32:16] Sunil Vaghela: Ok idea is if some sites would be hosted on same hosting then we only need to create one website perfect and then clone to multiple website.
+[01-02-2018 12:32:30] Sunil Vaghela: And then just need to change content and images for different sites.
+[01-02-2018 12:32:36] Sunil Vaghela: This is for Woocommerce
+[01-02-2018 12:32:53] Sunil Vaghela: Regarding Wix, I will check into detail and let you know in your morning
+[01-02-2018 12:33:16] DJ Tan: thank you!
+[01-02-2018 12:33:26] Sunil Vaghela: As per me, Woocommerce is best for such small websites.
+[01-02-2018 12:33:41] DJ Tan: Interesting! 
+[01-02-2018 12:33:50] Sunil Vaghela: And will be cheap as well.
+[01-02-2018 12:34:00] Sunil Vaghela: Interesting! Yes interesting.
+[01-02-2018 12:34:03] DJ Tan: For me, I have never worked on these kinds of projects so I am not familiar
+[01-02-2018 12:34:20] DJ Tan: ok, but if it is on differnent hostings? same - Woocommerce?
+[01-02-2018 12:35:34] Sunil Vaghela: For me, I have never worked on these kinds of projects so I am not familiar
+
+=== > Don't worry mate, I'm here to guide you and we will go with the best and perfect solution which will be easy and cheap.
+[01-02-2018 12:36:44] Sunil Vaghela: ok, but if it is on differnent hostings? same - Woocommerce?
+Then also, we just need to migrate one site to that hosting and modify as per the requirements. What we will do, we will make one original website as the platform then reuse it to clone multiple sites.
+[01-02-2018 12:37:00] DJ Tan: Ok, yes, I understand.
+[01-02-2018 12:37:04] DJ Tan: Good idea. 
+[01-02-2018 12:37:11] Sunil Vaghela: Thanks  
+[01-02-2018 12:37:45] Sunil Vaghela: However, I will come to you with the best and optimal idea. When will you be available?
+[01-02-2018 12:38:35] Sunil Vaghela: In which city of Oregon, you live now?
+[01-02-2018 12:39:23] DJ Tan: I live in Portland, Oregon
+[01-02-2018 12:39:31] Sunil Vaghela: Great
+[01-02-2018 12:39:43] DJ Tan: yeah fun city.
+[01-02-2018 12:39:45] Sunil Vaghela: 11:09 PM
+[01-02-2018 12:40:06] DJ Tan: i'm available probably in 8 hours or 24 hours.
+[01-02-2018 12:40:23] Sunil Vaghela: Hmm good
+[01-02-2018 12:40:35] DJ Tan: no hurry.
+[01-02-2018 12:40:41] DJ Tan: tomorrow is fine
+[01-02-2018 12:40:56] Sunil Vaghela: No problem, I will drop my message. and will chat tomorrow.
+[01-02-2018 12:41:03] DJ Tan: cheers adn thanks!
+[01-02-2018 12:41:07] DJ Tan: good day
+[01-02-2018 12:41:16] Sunil Vaghela: Thanks man
+[01-02-2018 12:41:24] Sunil Vaghela: Have a good night!
+[01-02-2018 12:41:34] Sunil Vaghela: See you tomorrow
+[01-02-2018 16:44:59] Sunil Vaghela: Hi Daniel, I noticed one important thing on your given sites.
+[01-02-2018 16:45:26] Sunil Vaghela: https://www.firmmusclegrowth.com
+[01-02-2018 17:05:32] Sunil Vaghela: They have used background images for the layout of the site :
+
+Image 1 : https://www.firmmusclegrowth.com/images/section-1.jpg
+Image 2 : https://www.firmmusclegrowth.com/images/section-2.jpg
+[01-02-2018 17:06:24] Sunil Vaghela: And then adjusted the form and content on these background images using CSS.
+[01-02-2018 17:07:04] Sunil Vaghela: I have a question: Would you provide these images to be put on background?
+[01-02-2018 19:13:18] DJ Tan: oh i see.
+[01-02-2018 19:13:30] DJ Tan: so we would need some design work i think.
+[01-02-2018 19:13:46] DJ Tan: I think we would design them
+[01-02-2018 19:28:48] DJ Tan: So yes, we would want to include time in our estimates for design work. As you can see from the links, it is usually just using "stock" photos probably found on the internet. I will try to get more information about this today.
+[02-02-2018 11:58:49] Sunil Vaghela: And one more thing, We should not use Woocommerce for these sites.
+[02-02-2018 11:59:34] Sunil Vaghela: The reason is, for each sites, we will have to configure woocommerce separately then. And for one/two pages site, there is no need to Woocommerce.
+[02-02-2018 11:59:51] Sunil Vaghela: We should go with CorePHP as in current sites which you shared with me
+[02-02-2018 12:01:58] Sunil Vaghela: What will be done: It will take some more time to develop first website with fresh coding of homepage, order form, order now, checkout features. Then to make other sites, we just need to clone those sites and reuse the code and modify slightly. so that after we develop one site perfect, for other sites, it will not take much time. It can be done easily.
+[02-02-2018 12:02:59] Sunil Vaghela: One question in my mind: Do we need to provide CMS system? I mean Admin should be able to change content of the pages from the backend? If yes then we will have to include backend development as well for the sites.
+[02-02-2018 12:03:14] Sunil Vaghela: Please advice. Looking forward to hearing from you.
+[06-02-2018 10:15:42] DJ Tan: Hi Sunil.
+[06-02-2018 10:15:52] Sunil Vaghela: Hi Daniel
+[06-02-2018 10:15:55] DJ Tan: Sorry so long to reply. I have been away last weekend.
+[06-02-2018 10:16:04] Sunil Vaghela: It's okay mate
+[06-02-2018 10:16:18] DJ Tan: I will review your notes and reply.
+[06-02-2018 10:16:38] DJ Tan: For today, I wanted to ask if you have a developer available to assist with some tweaks in Vital Leaf site.
+[06-02-2018 10:17:17] Sunil Vaghela: I will review your notes and reply.
+No problem, please take your time and let me know if you have any question in that.
+[06-02-2018 10:17:36] Sunil Vaghela: For today, I wanted to ask if you have a developer available to assist with some tweaks in Vital Leaf site.
+Yes sure, I will assign developer for you right away.
+[06-02-2018 10:17:54] DJ Tan: that's awesome. I will assign items in asana now
+[06-02-2018 10:18:10] Sunil Vaghela: Great (y)
+[06-02-2018 10:19:36] DJ Tan: ok assigned.
+[06-02-2018 10:19:45 | Edited 10:20:17] Sunil Vaghela: Checking
+[06-02-2018 10:20:14] Sunil Vaghela: Around 7 tasks are there. Right?
+[06-02-2018 10:20:29] DJ Tan: yes.
+[06-02-2018 10:20:42] Sunil Vaghela: And how to proceed?
+[06-02-2018 10:21:13] Sunil Vaghela: I think you shared all credentials with me. Just to confirm, it should work fine.
+[06-02-2018 10:21:23] DJ Tan: vitalleaf.com/wp-admin
+[06-02-2018 10:21:49] DJ Tan: daniel@smokesignalsllc.com
+[06-02-2018 10:21:51] DJ Tan: #xd)%KF6GCrb&#5j
+[06-02-2018 10:22:14] DJ Tan: Also here is logins to Siteground hosting
+[06-02-2018 10:22:26] DJ Tan: https://ua.siteground.com/login.htm
+[06-02-2018 10:22:40] DJ Tan: user: fatherin
+[06-02-2018 10:22:43] DJ Tan: pass: Super$implified!!
+[06-02-2018 10:22:49] Sunil Vaghela: FTP is there?
+[06-02-2018 10:22:52] DJ Tan: as we will have some tasks in hosting.
+[06-02-2018 10:23:05] DJ Tan: Actually, maybe need to set up an FTP for the site.
+[06-02-2018 10:23:27] DJ Tan: As I also want to set up a Codeguard backup for this site.
+[06-02-2018 10:23:36] DJ Tan: One thing: currently site is at vitalleaf.com domain. 
+[06-02-2018 10:24:15] DJ Tan: Client has a new domain: vitalleafcbd.com. That domain is hosted on namecheap. We want to point the domain to siteground and make so that the website is only at vitalleafcbd.com domain. 
+[06-02-2018 10:24:16] Sunil Vaghela: Thank you so much for all the details.
+[06-02-2018 10:24:31] DJ Tan: I have updated the DNS record this morning on Namecheap
+[06-02-2018 10:24:37] DJ Tan: but not adjusted any settings on Siteground.
+[06-02-2018 10:24:46] Sunil Vaghela: Actually, maybe need to set up an FTP for the site.
+No problem, we will create one FTP on Siteground.
+[06-02-2018 10:24:48] DJ Tan: I will add this task. This is probably first priority 
+[06-02-2018 10:25:08] Sunil Vaghela: As I also want to set up a Codeguard backup for this site.
+Yes, we are familiar with Codeguard.
+[06-02-2018 10:25:34] DJ Tan: i will set up account and give credentials.
+[06-02-2018 10:26:51] Sunil Vaghela: I have updated the DNS record this morning on Namecheap
+but not adjusted any settings on Siteground.
+I think we need to change some settings for domain.
+[06-02-2018 10:27:19] Sunil Vaghela: I will add this task. This is probably first priority 
+Need to do today?
+[06-02-2018 10:27:33] Sunil Vaghela: i will set up account and give credentials.
+Okay thanks.
+[06-02-2018 10:27:33] DJ Tan: yes if possible.
+[06-02-2018 10:28:38] Sunil Vaghela: Hmm I can see in Asana, yes we will first complete this task.
+[06-02-2018 10:28:49] DJ Tan: great.
+[06-02-2018 10:28:55] DJ Tan: I'm adding instructions now.
+[06-02-2018 10:31:12] Sunil Vaghela: Great
+[06-02-2018 10:31:35] DJ Tan: Ok, also: one question:
+[06-02-2018 10:31:55] DJ Tan: As we are on a new domain, I believe we need to set up a new SSL.
+[06-02-2018 10:32:24] DJ Tan: Perhaps we should do all of this now also
+[06-02-2018 10:32:51] DJ Tan: so we start at new domain with new ssl. otherwise we will have to try and use old SSL - not sure if that is possible.
+[06-02-2018 10:32:53] Sunil Vaghela: It is not needed. If we would like to transfer same SSL to new domain, we can do that but need the access of old SSL provider.
+[06-02-2018 10:33:30] DJ Tan: ah ok. only one thing is that we want the SSL to be able to accept subdomains, hence getting a new multi-domain ssl.
+[06-02-2018 10:33:58] Sunil Vaghela: Let me check current SSL type.
+[06-02-2018 10:34:21] DJ Tan: Also, I think the previous SSL may be nearly expired. I am not sure. But I also don't know if I have the logins for that SSL - maybe it is in the Siteground account.
+[06-02-2018 10:37:58] Sunil Vaghela: It is good to go with new SSL, As old SSL is going to expire in 31 days. : https://www.whynopadlock.com/results/ff904115-b634-40a9-ae78-b2ac36329b0e
+[06-02-2018 10:38:45] DJ Tan: yeah ok cool. I will purchase new one. it will be in namecheap account.
+[06-02-2018 10:38:54] Sunil Vaghela: That's great.
+[06-02-2018 10:39:32] Sunil Vaghela: Friend, if there is any priority on tasks then please let me know so that I can manage the work accordingly.
+[06-02-2018 10:40:03] DJ Tan: yes: DNS, site at new URL and SSL. First items to complete.
+[06-02-2018 10:42:39] Sunil Vaghela: Ok
+[06-02-2018 10:42:57] DJ Tan: Ok, I purchased the SSL.
+[06-02-2018 10:43:06] Sunil Vaghela: Good
+[06-02-2018 10:53:38] DJ Tan: and so basically, having the site at new domain, and functioning great is top priorty, with layout items next.
+[06-02-2018 10:53:48] DJ Tan: i am here if you ahve any question
+[06-02-2018 10:54:33] Sunil Vaghela: Ok
+[06-02-2018 10:54:39 | Edited 10:55:11] Sunil Vaghela: With new SSL?
+[06-02-2018 10:54:55] Sunil Vaghela: Also need to run Hubstaff?
+[06-02-2018 10:55:36] DJ Tan: yes new ssl. i think its better idea to get that all set up first, no?
+[06-02-2018 10:55:39] DJ Tan: yes hubstaff
+[06-02-2018 10:56:13] Sunil Vaghela: yes new ssl. i think its better idea to get that all set up first, no?
+Yes as old domain is running on SSL then we should make new domain running on SSL as well.
+[06-02-2018 10:56:38] Sunil Vaghela: So SSL task should be done right after we moved site to new domain.
+[06-02-2018 10:56:57] DJ Tan: ok
+[06-02-2018 10:57:06] Sunil Vaghela: yes hubstaff
+I can't see tasks in Hubstaff.
+[06-02-2018 10:57:41] DJ Tan: yes i see this issue. something weird with my account.
+[06-02-2018 10:57:56] DJ Tan: please you can begin to log tasks manually and I will learn the issues.
+[06-02-2018 10:58:51] Sunil Vaghela: Ok that's fine
+[06-02-2018 11:06:51] DJ Tan: ok please let me know if Hubstaff is working
+[06-02-2018 11:10:34] Sunil Vaghela: Let me connect it.
+[06-02-2018 11:11:51] Sunil Vaghela: Ok I can see Vital Leaf project in Hubstaff.
+[06-02-2018 11:12:07] Sunil Vaghela: but tasks can't be seen.
+[06-02-2018 11:12:13] DJ Tan: ok
+[06-02-2018 11:13:29] DJ Tan: please try again
+[06-02-2018 11:14:02] Sunil Vaghela: Now, getting "You have no tasks assigned".
+[06-02-2018 11:14:47] Sunil Vaghela: Do you remember we made it working last time?
+[06-02-2018 11:15:23] DJ Tan: yes i remember. only now i forgot. one moment
+[06-02-2018 11:15:25] DJ Tan: : )
+[06-02-2018 11:15:51] Sunil Vaghela: Yes actually it is little bit confusing to integrate Asana in Hubstaff.
+[06-02-2018 11:15:52] Sunil Vaghela:  
+[06-02-2018 11:16:15] DJ Tan: hmm, i see the tasks in hubstaff in my admin
+[06-02-2018 11:16:20] Sunil Vaghela: Now I can see.
+[06-02-2018 11:16:27] DJ Tan: ok great.
+[06-02-2018 11:16:46] Sunil Vaghela: Total 9 tasks are there.
+[06-02-2018 11:17:05] DJ Tan: i see some old tasks also, will delete and clean
+[06-02-2018 11:17:38] Sunil Vaghela: yes please, it would be great if you delete old tasks. so that it will not create any confusion.
+[06-02-2018 11:20:08] DJ Tan: ok everything in the box is an active task
+[06-02-2018 11:21:02] Sunil Vaghela: Ok thanks
+[06-02-2018 11:21:23] Sunil Vaghela: We are going to start working on it within some time.
+[06-02-2018 11:21:42] DJ Tan: ok great.
+[06-02-2018 11:23:08] Sunil Vaghela: (y)
+[06-02-2018 11:33:02] Sunil Vaghela: Do I need your Namecheap account access?
+[06-02-2018 11:33:23] DJ Tan: yes
+[06-02-2018 11:33:29] DJ Tan: user: Vitalleaf
+[06-02-2018 11:33:34] DJ Tan: pass: Vit@lity!!!
+[06-02-2018 11:36:37] Sunil Vaghela: Thanks
+[06-02-2018 11:45:46] Sunil Vaghela: You said that DNS records are already changed on Namecheap, so do we need to do more in this?
+[06-02-2018 11:46:12] DJ Tan: I think there is something needed to be done in Siteground, no?
+[06-02-2018 11:46:38] DJ Tan: to make teh website only be a vitalleafcbd.com
+[06-02-2018 11:47:09] DJ Tan: if you try to go to vitalleafcbd.com you get error.
+[06-02-2018 11:47:41] Sunil Vaghela: Yes I see
+[06-02-2018 11:56:10] DJ Tan: i am on phone with Siteground support.
+[06-02-2018 11:56:21] Sunil Vaghela: Ok
+[06-02-2018 12:00:03] DJ Tan: ok so actually, siteground will do the remaining part of this process.
+[06-02-2018 12:00:15] DJ Tan: They said it will take about 15 minutes
+[06-02-2018 12:00:23] DJ Tan: after that we can install new sll
+[06-02-2018 12:00:41] Sunil Vaghela: Ok so till then we need wait. Right?
+[06-02-2018 12:00:47] DJ Tan: yes
+[06-02-2018 12:00:54] Sunil Vaghela: Ok
+[06-02-2018 12:02:25] Sunil Vaghela: Then once site will be working on new domain, we need to change site domain throughout the site.
+[06-02-2018 12:02:48] DJ Tan: hmm, probably yes. i am not sure
+[06-02-2018 12:04:16] DJ Tan: let me ask you this question: client will not modify their own email addresses, but will the new URL require we modify some things regarding sending of Emails from website, such as order receipts?
+[06-02-2018 12:04:50] DJ Tan: i assume that all emails will now need to come via vitalleafcbd.com?
+[06-02-2018 12:05:22] Sunil Vaghela: hmm, probably yes. i am not sureYes we will have to change.
+[06-02-2018 12:05:40] DJ Tan: ok
+[06-02-2018 12:07:44] Sunil Vaghela: let me ask you this question: client will not modify their own email addresses, but will the new URL require we modify some things regarding sending of Emails from website, such as order receipts?
+i assume that all emails will now need to come via vitalleafcbd.com?
+We should create new email address for new domain like this  ____@vitalleafcbd.com
+[06-02-2018 12:08:06] DJ Tan: ok: store@vitalleafcbd.com
+[06-02-2018 12:08:14] Sunil Vaghela: Exactly
+[06-02-2018 12:09:26] DJ Tan: ok i have added a few new tasks.
+[06-02-2018 12:09:51] DJ Tan: however, the domain is on one host but site on another - how to set up emails in this situation?
+[06-02-2018 12:10:11] DJ Tan: site is at new domain!
+[06-02-2018 12:13:18] Sunil Vaghela: user: Vitalleaf
+pass: Vit@lity!!!
+It seems not working
+[06-02-2018 12:13:39] DJ Tan: namecheap?
+[06-02-2018 12:14:14] Sunil Vaghela: yes
+[06-02-2018 12:14:40] DJ Tan: it is working for me.
+[06-02-2018 12:14:48] DJ Tan: Vitalleaf/Vit@lity!!!
+[06-02-2018 12:23:33] Sunil Vaghela: For SSL, we need to enter some details to generate CSR:
+https://screenshots.firefox.com/yLKgRtGd0cNPIWS5/secure352.sgcpanel.com
+[06-02-2018 12:23:54] Sunil Vaghela: Please just send all required details here and we will create new CSR.
+[06-02-2018 12:25:21] Sunil Vaghela: https://vitalleafcbd.com/
+It is now working
+[06-02-2018 12:25:31] DJ Tan: domain: devtest.vitalleafcbd.com. City: Portland. State: Oregon. Country USA. Company: Sovereign Medicinals Inc.  Division: Sales. Email: store@vitalleafcbd.com
+[06-02-2018 12:26:15] DJ Tan: (also domain vitalleafcbd.com, of course)
+[06-02-2018 12:26:39 | Edited 12:27:12] Sunil Vaghela: Will there be sub-domains?
+[06-02-2018 12:26:50] DJ Tan: devtest.vitalleafcbd.com
+[06-02-2018 12:27:19] DJ Tan: store.vitalleafcbd.com - those are the 2 subdomains.
+[06-02-2018 12:27:20] Sunil Vaghela: Ok
+[06-02-2018 12:31:56] Sunil Vaghela: Create email account: store@vitalleafcbd.com
+pass: Vit@lity!!!
+[06-02-2018 12:32:16] Sunil Vaghela: Do we need to create in Siteground cPanel?
+[06-02-2018 12:32:56] DJ Tan: Yes.
+[06-02-2018 12:33:09] Sunil Vaghela: Ok
+[06-02-2018 12:33:13] DJ Tan: Also create a webmaster@vitalleafcbd.com
+[06-02-2018 12:33:16] DJ Tan: same pass
+[06-02-2018 12:33:22] Sunil Vaghela: Sure
+[06-02-2018 12:35:05 | Edited 12:35:45] Sunil Vaghela: Ok we are all set to start work on the project. First, starting this task : Update URLs
+[06-02-2018 12:35:25] DJ Tan: k great. ssl is complete?
+[06-02-2018 12:35:38] Sunil Vaghela: Oh sorry
+[06-02-2018 12:35:48] Sunil Vaghela: First we should install SSL.
+[06-02-2018 12:36:06] Sunil Vaghela: Ok first doing this.
+[06-02-2018 13:42:22] DJ Tan: hi sunil
+[06-02-2018 13:42:32] Sunil Vaghela: Hi Daniel
+[06-02-2018 13:42:41] DJ Tan: Hows your day so far?
+[06-02-2018 13:42:54] Sunil Vaghela: Too busy day!
+[06-02-2018 13:43:07] DJ Tan: Ha yeah I am sure. Sorry to add more to your busy list.
+[06-02-2018 13:43:25] DJ Tan: I'm going to bed soon. Do you have any questions for me?
+[06-02-2018 13:43:26] Sunil Vaghela: No problem.
+[06-02-2018 13:44:48] Sunil Vaghela: Actually, it's lunch time going on right now. Only one question for now, in which order you wants tasks finished?
+[06-02-2018 13:45:02] DJ Tan: is SSL finished?
+[06-02-2018 13:45:10] Sunil Vaghela: No it's in-progress.
+[06-02-2018 13:45:18] Sunil Vaghela: We have not started Hubstaff yet.
+[06-02-2018 13:45:31] Sunil Vaghela: After lunch, will start hubstaff.
+[06-02-2018 13:45:51] DJ Tan: ok: finish SSL. Site emails (sending from vitalleafcbd.com, ie store orders). Making sure site is running good. 
+[06-02-2018 13:45:59] Sunil Vaghela: 1) Top Priority - Install New SSL and Subdomain
+
+2) Update URLs
+
+3) New Email
+[06-02-2018 13:46:12] Sunil Vaghela: I set this priority for initial tasks.
+[06-02-2018 13:47:26] DJ Tan: YEs correct. Then: Asana Tasks: Disable Related Items; New Email, Cart Icons Mobile, W3/cache. 
+[06-02-2018 13:47:33] DJ Tan: Then from there to complete in any order. 
+[06-02-2018 13:47:46] Sunil Vaghela: Ok thanks mate
+[06-02-2018 13:47:53] DJ Tan: ok enjoy lunch!
+[06-02-2018 13:48:01] Sunil Vaghela: I will update you more in the today's update email.
+[06-02-2018 13:48:25] Sunil Vaghela: will send it to you on this : daniel@smokesignalsllc.com
+[06-02-2018 13:49:02] DJ Tan: sounds good. and Sid always knew this: if there was some weird problem or issue, and I was sleeping: it is better to back-out of an item and wait until next day. Not to leave anything unfinished or not functioning correctly or causing issues with site function.
+[06-02-2018 13:49:38] DJ Tan: Can always fix next day after I have time to learn and review.
+[06-02-2018 13:49:57] Sunil Vaghela: Yes I will take care of these things from my side as well. Don't worry.
+[06-02-2018 13:50:05] DJ Tan: cheers!
+[06-02-2018 13:50:16] Sunil Vaghela: Thank you and have a good night!
+[06-02-2018 13:50:34] DJ Tan: good day to you
+[06-02-2018 13:50:39] Sunil Vaghela:  
+[07-02-2018 09:49:58] DJ Tan: Hi Sunil. Are you at office number w?
+[07-02-2018 09:50:17] DJ Tan: At office now?
+[07-02-2018 09:50:26] Sunil Vaghela: Hi Daniel
+[07-02-2018 09:50:34] Sunil Vaghela: Yes I just came office.
+[07-02-2018 09:51:10] DJ Tan: Ok cool. 
+[07-02-2018 09:51:35] DJ Tan: I wanted to see if you had any questions about tasks for today. 
+[07-02-2018 09:54:24] Sunil Vaghela: I can see you have set priority for today.
+[07-02-2018 09:54:33] Sunil Vaghela: Thanks
+[07-02-2018 09:54:46] DJ Tan: yes. i'm reviewing now also 
+[07-02-2018 09:54:52] DJ Tan: to make sure 
+[07-02-2018 09:54:59] Sunil Vaghela: Yes please
+[07-02-2018 09:55:53] DJ Tan: how much time does developer have available today?
+[07-02-2018 09:56:25] Sunil Vaghela: Around 6-7 hrs.
+[07-02-2018 09:56:39] DJ Tan: ok that should be enough for everything i think.
+[07-02-2018 09:57:22] DJ Tan: But best to start with priorities. I will mark top priority for today, next priority for tomorrow
+[07-02-2018 09:57:40] Sunil Vaghela: ok that should be enough for everything i think.
+Yes, I also think that.
+[07-02-2018 09:57:54] Sunil Vaghela: But best to start with priorities. I will mark top priority for today, next priority for tomorrow
+That's great.
+[07-02-2018 09:58:16] Sunil Vaghela: Have you set yesterday's priority?
+[07-02-2018 09:58:30] DJ Tan: oh, it is "today" here
+[07-02-2018 09:58:37] DJ Tan: "yesterday" for you. is that ok?
+[07-02-2018 09:59:15] Sunil Vaghela: Yes okay for me. We will first complete "yesterday" tasks.
+[07-02-2018 10:01:08] DJ Tan: ok great. i also marked 2 as "Top Priority" in name for today/yesterday. Thank you!
+[07-02-2018 10:01:44] Sunil Vaghela: Thank you
+[07-02-2018 10:01:54] Sunil Vaghela: So we can start work now.
+[07-02-2018 10:02:28] DJ Tan: yes great.
+[07-02-2018 10:03:06] DJ Tan: i will not be online tonight.
+[07-02-2018 10:03:57] Sunil Vaghela: Please give me 2 mins. I'm checking today's tasks.
+[07-02-2018 10:04:44] Sunil Vaghela: Have you created email with new domain?
+[07-02-2018 10:06:28] DJ Tan: yes
+[07-02-2018 10:06:42] Sunil Vaghela: ok great
+[07-02-2018 10:06:43] DJ Tan: i think i deleted that one
+[07-02-2018 10:06:53] Sunil Vaghela: store@vitalleafcbd.com
+[07-02-2018 10:06:58] DJ Tan: correct.
+[07-02-2018 10:07:05] Sunil Vaghela: It is there in cPanel.
+[07-02-2018 10:07:17] Sunil Vaghela: Are you able to access this mail account?
+[07-02-2018 10:07:18] DJ Tan: yes. if you need pass it is: Vit@lity!!!
+[07-02-2018 10:07:29] DJ Tan: yes. vitalleafcbd.com/webmail
+[07-02-2018 10:07:55] Sunil Vaghela: Yes We will need to check Dmarc, DKIM, SPF and MX.
+[07-02-2018 10:07:57] Sunil Vaghela: Thanks
+[07-02-2018 10:08:18] Sunil Vaghela: (bow)
+[07-02-2018 10:08:21] DJ Tan: yes\
+[07-02-2018 10:09:15] Sunil Vaghela: I think we need to work first on this: Update URLs
+[07-02-2018 10:09:38] Sunil Vaghela: As we must replace old domain everywhere with new domain.
+[07-02-2018 10:10:13] DJ Tan: it is completed automatcally i think.
+[07-02-2018 10:10:26] DJ Tan: all domains on site seem to be updated.
+[07-02-2018 10:10:33] DJ Tan: please check.
+[07-02-2018 10:14:36] Sunil Vaghela: Ok correct
+[07-02-2018 10:15:27] DJ Tan: (flex)
+[07-02-2018 10:15:37] Sunil Vaghela: Yeah
+[07-02-2018 10:15:52] Sunil Vaghela: Do we have WHM on siteground?
+[07-02-2018 10:16:48] DJ Tan: hmm i don't think so
+[07-02-2018 10:17:56] Sunil Vaghela: WHM access is only available for customers using Cloud Hosting and Dedicated Server accounts.
+[07-02-2018 10:18:07] DJ Tan: ok. for what we need it?
+[07-02-2018 10:18:35] Sunil Vaghela: I don't think we will need it. cPanel is ok.
+[07-02-2018 10:20:02] Sunil Vaghela: I just saw that client's account is not Cloud Hosting and Dedicated Server.
+[07-02-2018 10:20:13] DJ Tan: correct
+[07-02-2018 10:20:24] Sunil Vaghela: No problem
+[07-02-2018 10:20:40] Sunil Vaghela: No questions for today.
+[07-02-2018 10:21:16] Sunil Vaghela: Only one suggestion: we should setup CodeGuard for the site.
+[07-02-2018 10:25:57] DJ Tan: yes, i agree. 
+[07-02-2018 10:26:18] DJ Tan: I have assigned task to set up FTP, since we will need to set up Codeguard.
+[07-02-2018 10:26:28] DJ Tan: I think I have a free account we can use. I will add details to asana
+[07-02-2018 10:26:30] Sunil Vaghela: Hmm I see
+[07-02-2018 10:26:56] Sunil Vaghela: Yes we can do Codeguard after that.
+[07-02-2018 10:29:10] DJ Tan: ok assgined.
+[07-02-2018 10:29:25] Sunil Vaghela: Hmm
+[07-02-2018 10:31:29] Sunil Vaghela: Daniel, I got your below email:
+
+"Hi Sunil.
+
+When you have a moment can you tell me what issues you had with Siteground and Namecheap? I need to account for the hours to client in more detail."
+[07-02-2018 10:31:42 | Edited 10:32:18] Sunil Vaghela: ==========
+Do you still need more details on this?
+[07-02-2018 10:34:29] DJ Tan: yes just a few sentences please. sorry for the extr aork.
+[07-02-2018 10:35:06] DJ Tan: as I must detail hours to the client. 
+[07-02-2018 10:35:20] Sunil Vaghela: No problem, I will send you some good details on it.
+[07-02-2018 10:36:10] DJ Tan: ok great thanks a lot
+[07-02-2018 10:36:59] Sunil Vaghela: Actually, Let's encrypt SSL was already installed on vitalleafcbd.com, it was creating issues.
+[07-02-2018 10:37:43] Sunil Vaghela: Anyways, I will write message for you and send it to email.
+[07-02-2018 10:39:15] DJ Tan: ok cool. no worries! Thanks for all your help. 
+[07-02-2018 10:39:27] DJ Tan: I'm going to sign off unless you need soemthing
+[07-02-2018 10:40:31] Sunil Vaghela: Anytime  
+You can sign off. I will handle everything.
+[07-02-2018 10:40:48] DJ Tan: ok cheeers.
+[07-02-2018 10:40:51] DJ Tan: good day.
+[07-02-2018 10:41:14] Sunil Vaghela: Thank you. Good night |-)
+[08-02-2018 12:14:45] Sunil Vaghela: Hi Daniel
+[08-02-2018 12:17:49] DJ Tan: Hi Sunil how ru
+[08-02-2018 12:21:29] Sunil Vaghela: I am good. Thanks
+[08-02-2018 12:21:33] Sunil Vaghela: How about you?
+[08-02-2018 12:22:23] DJ Tan: yeah doing ok thanks. Got 2 online sales on Vital Leaf.
+[08-02-2018 12:22:38] DJ Tan: Pretty fast for brand new site i think. It is not even really ready!
+[08-02-2018 12:22:56 | Edited 12:24:04] Sunil Vaghela: Got 2 online sales on Vital Leaf.
+You meant live sales or dummy?
+[08-02-2018 12:23:48] DJ Tan: live sales
+[08-02-2018 12:23:56] Sunil Vaghela: That's great
+[08-02-2018 12:25:14] Sunil Vaghela: I want to discuss on 2 points with you.
+[08-02-2018 12:25:35] Sunil Vaghela: First is  : https://app.asana.com/0/527821847940106/549427108900908
+[08-02-2018 12:26:17] DJ Tan: k
+[08-02-2018 12:26:20] Sunil Vaghela: Add Comodo, as per your comment in Asana, you need us to put this icon at bottom right corner of all pages?
+[08-02-2018 12:26:29] DJ Tan: yes
+[08-02-2018 12:26:45] DJ Tan: please visit https://emeraldvalleycbd.com/
+[08-02-2018 12:27:00] DJ Tan: you will see that it is in bottom left corner - floating
+[08-02-2018 12:27:06] DJ Tan: not moving in scroll
+[08-02-2018 12:27:33] Sunil Vaghela: Ok so we need to put that at bottom left corner. Right?
+[08-02-2018 12:28:25] DJ Tan: No, bottom right please
+[08-02-2018 12:28:54] Sunil Vaghela: At bottom right, there is already "TOP arrow".
+[08-02-2018 12:29:19] DJ Tan: Ok, bottom left!
+[08-02-2018 12:29:22] DJ Tan: : )
+[08-02-2018 12:29:44] Sunil Vaghela:  
+[08-02-2018 12:30:10] Sunil Vaghela: And my second question is,
+
+I can see that there is no flatsome-child theme created.
+[08-02-2018 12:30:49] Sunil Vaghela: In wordpress, we should create child-theme. So that when we update theme, our done work remains as it is.
+[08-02-2018 12:31:05] DJ Tan: yes, please do this!
+[08-02-2018 12:31:18] DJ Tan: I have done all the website alone, so I am not aware of this.
+[08-02-2018 12:32:09] Sunil Vaghela: But to make sure, I just want to confirm with you that any files are modified in the main flatsome theme?
+[08-02-2018 12:32:37] DJ Tan: hmm
+[08-02-2018 12:33:10] DJ Tan: I think first we should implement codeguard or make sure we have backups. Already there is a dropbox backup but I want to have 2.
+[08-02-2018 12:33:33] DJ Tan: As for changes in the main flatsome theme - i really don't know. Can you give me an example?
+[08-02-2018 12:33:35] Sunil Vaghela: Yes we will setup codeguard first
+[08-02-2018 12:34:20] Sunil Vaghela: As for changes in the main flatsome theme - i really don't know. Can you give me an example?
+Any idea when did you install Flatsome theme on VL site?
+[08-02-2018 12:35:24] Sunil Vaghela: So that we can check the modified date of files, from that we can get idea that which files are modified after theme installation.
+[08-02-2018 12:35:39] DJ Tan: Approx November 17 I purchased the theme.
+[08-02-2018 12:35:53] DJ Tan: So i installed it after that date.
+[08-02-2018 12:36:07] DJ Tan: Actually, please let me change something I said previously.
+[08-02-2018 12:36:52] DJ Tan: The site was previously in Avada theme. I set up WP Stagecoach so I could work in a staging environment. I installed Flatsome on staging site. Then a few weeks ago we moved from STaging to live.
+[08-02-2018 12:39:01] Sunil Vaghela: Oh. Then it is difficult to make sure what changes are done in main flatsome theme?
+[08-02-2018 12:39:10] Sunil Vaghela: Staging site is working?
+[08-02-2018 12:39:31] DJ Tan: https://vitalleaf.wpstagecoach.com/
+[08-02-2018 12:39:45] DJ Tan: Actually I have cancelled this staging account and deleted the plugin from site.
+[08-02-2018 12:39:51] DJ Tan: However is still live.
+[08-02-2018 12:41:57] Sunil Vaghela: I think if all work done only by you then you should not have modified any files in Flatsome main theme.
+[08-02-2018 12:42:38] DJ Tan: Hmm, there was some CSS modifications
+[08-02-2018 12:43:20] Sunil Vaghela: I'm just making sure this because if we update main theme then all changes done in flatsome theme itself will be lost.
+[08-02-2018 12:43:53] Sunil Vaghela: So we should create flatsome-child theme.
+[08-02-2018 12:45:13] DJ Tan: oh wow!
+[08-02-2018 12:45:51] DJ Tan: I understand what you are saying. However, i don't really 100% understand - but I know it is a big problem and must be careful. : )
+[08-02-2018 12:47:45] Sunil Vaghela: Yes I understand it completely. So don't worry, we will create child-theme first, and then we will have to compare current main theme with the fresh flatsome theme. If we find any differences in files, we will move that code into child-theme, so that old work will remain safe in child-theme even if we update main theme.
+[08-02-2018 12:48:03] DJ Tan: i understand
+[08-02-2018 12:48:15] Sunil Vaghela: Thanks
+[08-02-2018 12:48:25] Sunil Vaghela: Would you please add this task in Asana?
+[08-02-2018 12:49:06] DJ Tan: ok added
+[08-02-2018 12:49:19] Sunil Vaghela: Hmm
+[08-02-2018 12:50:03] Sunil Vaghela: but before that we will setup codeguard account
+[08-02-2018 12:50:20] DJ Tan: yes
+[08-02-2018 12:51:11] Sunil Vaghela: Do we need to delete coloradoseedinc.com completely from this account?
+[08-02-2018 12:51:28] DJ Tan: yes its ok
+[08-02-2018 12:52:10] Sunil Vaghela: ok so first we delete that site and make account empty and then setup the backup for VL site and database.
+[09-02-2018 12:14:09] DJ Tan: hi
+[09-02-2018 12:14:19] Sunil Vaghela: Hello Daniel
+[09-02-2018 12:14:24] Sunil Vaghela: How are you?
+[09-02-2018 12:14:52] DJ Tan: doing ok thanks and you?
+[09-02-2018 12:14:59] Sunil Vaghela: Doing good.
+[09-02-2018 12:15:35] DJ Tan: https://app.asana.com/0/527821847940106/553961863662555/f
+[09-02-2018 12:15:42] DJ Tan: Did you see this task?
+[09-02-2018 12:16:02] Sunil Vaghela: Yes
+[09-02-2018 12:16:11] Sunil Vaghela: We are currently finding the issue.
+[09-02-2018 12:16:15] DJ Tan: Do you have any idea what could be the reason?
+[09-02-2018 12:16:17] DJ Tan: Ok.
+[09-02-2018 12:16:17] Sunil Vaghela: It is strange
+[09-02-2018 12:16:36] DJ Tan: Today, one thing I know is that client logged into site and added some content to one page.
+[09-02-2018 12:16:51] DJ Tan: I did not have a chance to ask her if she changed any settings.
+[09-02-2018 12:16:51] Sunil Vaghela: We found one thing that <b> tag is being added on all pages. That's why, it applied b{font-weight:bolder} CSS
+[09-02-2018 12:17:07] DJ Tan: ohhhhh!
+[09-02-2018 12:17:29] DJ Tan: ha ha ha! I added a bold tag to the top bar!
+[09-02-2018 12:17:32] DJ Tan: maybe that was it?
+[09-02-2018 12:17:37] Sunil Vaghela: We are investigating same that from where <b> is being added?
+[09-02-2018 12:17:43] DJ Tan: in the top bar, left html
+[09-02-2018 12:18:18] DJ Tan: one moment
+[09-02-2018 12:19:26] DJ Tan: so in UX builder, Customizing HEader, Customizing Top Bar, I added an HTML box to the top left header. I added I think a <b tag to make the header bold
+[09-02-2018 12:19:32] DJ Tan: but maybe it was more?
+[09-02-2018 12:19:37] DJ Tan: I have removed it.
+[09-02-2018 12:19:56] DJ Tan: hahaha! that fixed the issue!
+[09-02-2018 12:20:02] DJ Tan: Oh man, I should never touch the website.
+[09-02-2018 12:20:36] Sunil Vaghela: Really! Is it fixed?
+[09-02-2018 12:20:41] DJ Tan: yes
+[09-02-2018 12:20:53] DJ Tan: (bow)
+[09-02-2018 12:21:40] Sunil Vaghela: (cwl)
+[09-02-2018 12:22:09] Sunil Vaghela: Really, issue was starnge.
+[09-02-2018 12:22:24] DJ Tan: (unamused)
+[09-02-2018 12:22:33] DJ Tan: yes for sure.
+[09-02-2018 12:22:37] DJ Tan: but, it's fixed.
+[09-02-2018 12:22:44] DJ Tan: thanks for looking at it.
+[09-02-2018 12:23:05] DJ Tan: next priority is Comodo issue then please. : )
+[09-02-2018 12:26:46] DJ Tan: https://support.comodo.com/index.php?/Knowledgebase/Article/View/635/6/idauthority-credentials-not-available-for-this-site
+[09-02-2018 12:26:48] Sunil Vaghela: Mate, we made BUY CBD ONLINE FROM VITAL LEAF bold again
+[09-02-2018 12:27:01] DJ Tan: ok great!
+[09-02-2018 12:27:29] Sunil Vaghela: yes for comodo issue
+[09-02-2018 12:27:38] DJ Tan: ok cool.
+[09-02-2018 12:27:45] DJ Tan: thanks! heading to bed. any questions?
+[09-02-2018 12:28:59] Sunil Vaghela: We found imp info for it.
+[09-02-2018 12:29:06] Sunil Vaghela: https://www.interssl.com/en/knowledgebase.php?action=displayarticle&id=181
+[09-02-2018 12:29:15] Sunil Vaghela: Would you please check above link?
+[09-02-2018 12:29:32] Sunil Vaghela: It says that "The idAuthority check is available for all COMODO certificates, except for multi-domain certificates."
+[09-02-2018 12:30:04] DJ Tan: ok i see
+[09-02-2018 12:30:17] DJ Tan: yeah need the 2nd icon - Positive SSL, i think
+[09-02-2018 12:30:33] DJ Tan: https://www.positivessl.com/secure-site-seal.php
+[09-02-2018 12:31:48] Sunil Vaghela: But if you select "PositiveSSL multi-domain" it shows "Comodo secure" icons as in current website.
+[09-02-2018 12:31:52] DJ Tan: yea, the SSL is a "Positive SSL"
+[09-02-2018 12:32:52] Sunil Vaghela: I can see that for multi-domain SSL, we can't use those script. Instead, we need to put HTML only as given here : https://www.positivessl.com/secure-site-seal.php
+[09-02-2018 12:33:12] Sunil Vaghela: for "Positive SSL Multi Domain"
+[09-02-2018 12:33:13] DJ Tan: yeah i think so
+[09-02-2018 12:33:39] Sunil Vaghela: It will be an image only on VL site then.
+[09-02-2018 12:33:49] DJ Tan: hmm.
+[09-02-2018 12:34:05] Sunil Vaghela: ok we are adding that code.
+[09-02-2018 12:35:07] DJ Tan: so, will it be "clickable" to show verified SSL? Or just static image?
+[09-02-2018 12:35:50] DJ Tan: https://www.positivessl.com/images-new/define-site-seal.png
+[09-02-2018 12:36:45] Sunil Vaghela: it will be clickable.
+[09-02-2018 12:37:15] Sunil Vaghela: href link is showing in that code and after click, it will open this page : https://www.positivessl.com/multi-domain-ssl-certificate.php
+[09-02-2018 12:38:07] DJ Tan: hmm that doesn't look like a "security" page, for example. 
+[09-02-2018 12:38:19] DJ Tan: USually it shows some secure info, no?
+[09-02-2018 12:39:03] DJ Tan: https://www.positivessl.com/secure-site-seal.php
+[09-02-2018 12:39:07 | Edited 12:40:13] Sunil Vaghela: https://htmledit.squarefree.com/
+
+Please paste below code to see icon working:
+
+<a href="https://www.positivessl.com/multi-domain-ssl-certificate.php" style="font-family: arial; font-size: 10px; color: #212121; text-decoration: none;"><img src="https://www.positivessl.com/images-new/comodo_secure_seal_113x59_transp.png" alt="Trusted Site Seal" title="Trusted Site Seal for Multi Domain SSL" border="0" /></a>
+<div style="font-family: arial;font-weight:bold;font-size:15px;color:#86BEE0;"><a href="https://www.positivessl.com/multi-domain-ssl-certificate.php" style="color:#86BEE0; text-decoration: none;">Multi Domain SSL</a></div>
+[09-02-2018 12:39:16] DJ Tan: if you click on teh Comodo seal on bottom right corner, you get security ifno
+[09-02-2018 12:40:44 | Edited 12:41:22] Sunil Vaghela: yes but as per this site, it is not available for multi-domain SSL : https://www.interssl.com/en/knowledgebase.php?action=displayarticle&id=181
+[09-02-2018 12:42:05] Sunil Vaghela: however, let us talk with comodo support for this.
+[09-02-2018 12:42:54] DJ Tan: ok cool. I know you will find the correct solution. thank you! going to bed now.
+[09-02-2018 12:43:12] Sunil Vaghela: Thank you
+[09-02-2018 12:43:23] Sunil Vaghela: ok mate
+[09-02-2018 12:43:27] Sunil Vaghela: Good night!
+[09-02-2018 12:43:52] DJ Tan: cheers
+[09-02-2018 12:44:00] Sunil Vaghela: I will update you.
+[09-02-2018 12:44:09] DJ Tan: of course! Thanks again.
+[09-02-2018 12:44:14] Sunil Vaghela:  
+[10-02-2018 12:29:07] Sunil Vaghela: Hi Daniel,
+
+To update the theme, we will require License code of the purchased theme. Could you please provide it?
+
+Thanks,
+Sunil
+[10-02-2018 13:10:47] DJ Tan: hi one moment please.
+[10-02-2018 13:17:30] DJ Tan: LICENSE CERTIFICATE : Envato Market Item
+==============================================
+
+This document certifies the purchase of:
+ONE REGULAR LICENSE
+as defined in the standard terms and conditions on Envato Market.
+
+Licensor's Author Username:
+UX-themes
+
+Licensee:
+Smoke Signals LLC
+
+Item Title:
+Flatsome | Multi-Purpose Responsive WooCommerce Theme
+
+Item URL:
+https://themeforest.net/item/flatsome-multipurpose-responsive-woocommerce-theme/5484319
+
+Item ID:
+5484319
+
+Item Purchase Code:
+98cb012e-41a7-42cc-b259-22568c4f3d39
+
+Purchase Date:
+2017-11-17 19:51:10 UTC
+
+For any queries related to this document or license please contact Help Team via https://help.market.envato.com
+
+Envato Pty. Ltd. (ABN 11 119 159 741)
+PO Box 16122, Collins Street West, VIC 8007, Australia
+
+==== THIS IS NOT A TAX RECEIPT OR INVOICE ====
+
+
+[10-02-2018 13:23:16] Sunil Vaghela: Thanks Daniel.
+We will update theme on Monday, as we need to take care some things before updating theme.
+[10:39:33] Sunil Vaghela: Hello Daniel
+[10:40:11] Sunil Vaghela: We are not able to see "CannaMethod" Project in Hubstaff
+[10:43:00] Sunil Vaghela: Could you please add in Hubstaff?
+[10:43:47] DJ Tan: Hi the issue seems to have resolved itself. Site is live again. 
+[10:44:06] Sunil Vaghela: http://cannamethod.com/wp-admin/
+[10:44:14] Sunil Vaghela: it's not working
+[10:49:39] DJ Tan: I moved task to vital leaf in Asana 
+[10:50:43] Sunil Vaghela: Ok thanks
+[10:52:03] DJ Tan: U see it? 
+[10:52:10] Sunil Vaghela: Yes
+[10:52:53] Sunil Vaghela: Oh sorry, you meant in Hubstaff!
+[10:53:01] Sunil Vaghela: Checking
+[10:53:29] DJ Tan: I changed it to be a vital leaf task. 
+[10:53:47] DJ Tan: Not at computer. I have Asana app on phone 
+[10:54:36] Sunil Vaghela: Yes I just refreshed Hubstaff and I can see now
+[10:54:39] Sunil Vaghela: Thank you
+[10:54:54] DJ Tan: Ok cool. 
+[10:55:33] Sunil Vaghela: So I think as of now, only this task "Plugin Causing Error" is remaining to be done.
+[10:56:00] DJ Tan: Yes for the moment 
+[10:56:09] DJ Tan: More to come 
+[10:56:12] Sunil Vaghela: And please let me know if you have some more work for us.
+[10:56:23] DJ Tan: Of course. Thank u Sunil 
+[10:56:25] Sunil Vaghela: (y)
+[10:56:31] Sunil Vaghela: Any time  

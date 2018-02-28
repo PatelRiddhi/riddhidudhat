@@ -1,0 +1,199 @@
+hdo
+[08:57:18]  
+hello.ma'm.
+[08:57:22]  
+good morning.
+[08:57:26]  
+how are you?
+rd
+[08:58:23]  
+hello good morning .I am fine
+[08:58:29]  
+what about you?
+hdo
+[08:58:51]  
+i am also fine.
+rd
+[08:59:03]  
+by the way today you have to chat on spark for 1 hour and The ending of hour sir will come and check all of us conversation and on monday sir will decide who is the winner
+[09:00:20]  
+so let's enjoy this game
+hdo
+[09:00:43]  
+ha..
+[09:00:59]  
+yes.
+[09:01:40]  
+you have no tension for deside winner.
+[09:01:44]  
+i am right?
+rd
+[09:02:09]  
+yes
+[09:02:22]  
+am I right?*correction
+hdo
+[09:03:06]  
+ok..
+[09:04:27]  
+let's continue with pervious conversion.
+rd
+[09:05:14]  
+ohk
+hdo
+[09:07:41]  
+ma'm.we have make your website design.
+[09:08:03]  
+i send link.please check it.how's it.
+[09:08:09]  
+https://w3layouts.com/preview/?l=/downy-shoes-ecommerce-category-bootstrap-responsive-web-template/
+rd
+[09:09:17]  
+yes wait I am checking
+hdo
+[09:09:29]  
+ok.ma'm.
+rd
+[09:10:13]  
+so This is good .By the way what was your confusion
+[09:11:38]  
+??/
+hdo
+[09:13:25]  
+what kind of category which you have enter in add project page.
+[09:13:57]  
+like. man,kid,toy,electronic, woman etc, which you want add more categories?
+rd
+[09:14:24]  
+I discussed it previously that I want category also dynamically
+[09:14:49]  
+I want that admin can add category
+hdo
+[09:16:03]  
+ok.ma'm.
+rd
+[09:16:25]  
+have you got it?
+hdo
+[09:16:46]  
+yes.ma'm.i have got.
+[09:17:23]  
+i will start admin panel today.
+rd
+[09:17:51]  
+ohk that great
+[09:18:06]  
+is any confusion in any other module?
+hdo
+[09:19:09]  
+yes.me'm.i have confusion in payment module.
+rd
+[09:19:23]  
+yes please say
+hdo
+[09:20:33]  
+which type of payment method use in your website.
+rd
+[09:20:43]  
+ohk
+[09:21:15]  
+actually I want all payment method which will be categories in that oerticular area
+[09:21:54]  
+suppose in user select debit card so after selecting method it will be shown all the bank of name
+[09:21:57]  
+like that
+[09:22:15]  
+and also I want debit card, credit card, paytm
+[09:22:29]  
+all of net banking way user will be used in my app
+hdo
+[09:22:51]  
+ok.i do it.
+rd
+[09:23:37]  
+I will do it*correction
+hdo
+[09:25:45]  
+ok.
+rd
+[09:26:45]  
+good
+hdo
+[09:27:43]  
+user can give you, her personal details?
+rd
+[09:28:47]  
+can please repeat this sentance I can't understant it
+hdo
+[09:33:27]  
+user can give you, her personal banking details?
+rd
+[09:34:37]  
+no
+hdo
+[09:34:49]  
+menas you can see her personal detail?
+rd
+[09:34:57]  
+of course it must be secret for me also
+hdo
+[09:36:26]  
+ok.then i will set that data in cryptography format.
+rd
+[09:37:38]  
+ohk thats great
+hdo
+[09:43:05]  
+ma'm.onemore thing.you have also not enble to see user login password.
+[09:46:04]  
+ma'm.are you got it?
+rd
+[09:46:45]  
+you mean that admin can not see the username and password right?
+hdo
+[09:47:07]  
+yaa.
+[09:47:34]  
+admin can see her login details.
+rd
+[09:47:44]  
+so you need to password also encrypted form ohk?
+hdo
+[09:47:55]  
+but admin can't see user username and password.
+rd
+[09:47:58]  
+can see or not?
+hdo
+[09:48:55]  
+but admin can not see user's username and password.*
+[09:52:55]  
+hello.ma'm.are you got it?
+rd
+[09:56:07]  
+ohk
+[09:56:09]  
+got it
+hdo
+[09:57:18]  
+ok.then fine.
+[09:57:49]  
+any thing else?
+rd
+[10:00:02]  
+no
+[10:00:09]  
+that's enough
+[10:00:41]  
+which module you compeleted then update me on skype
+hdo
+[10:01:16]  
+ok.i will send update.
+rd
+[10:01:41]  
+ohk
+[10:01:48]  
+bye have nice day
+hdo
+[10:02:08]  
+ok.ma'm.bye.have a nice day.
